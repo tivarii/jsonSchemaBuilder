@@ -1,4 +1,4 @@
-import React from "react"
+
 import type { SchemaField,FieldType } from "../types/schema"
 export const SchemaFieldComponent = ({
   field,
